@@ -16,3 +16,4 @@ Cypres Folder Structure
 
 Describe Block: Group of Tests aka Test Suite
 It block: Test case
+Finally, my git commit has been successfull
