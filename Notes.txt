@@ -1,0 +1,18 @@
+Got error at npx cypress open
+Error: could not install cypress. Run command npm cypress install
+But it didn't work.
+
+Solution : 
+Removing the cypress npm package and re-installing it worked.
+"npm remove cypress" then "npm i cypress"
+
+spec files are Test files(testcases)
+
+Cypres Folder Structure
+    downloads
+    e2e
+    fixtures
+    support: Write custom commands
+
+Describe Block: Group of Tests aka Test Suite
+It block: Test case
